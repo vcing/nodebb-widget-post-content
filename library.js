@@ -162,6 +162,8 @@
                         topics.getTopicData([mockReq.params.topic_id], next);
                     },
                     function (topic, next) {
+                        console.log('aaaaaaaaaa:',topic);
+                        console.log(mockReq.params.topic_id);
                         mockReq.params.slug = topic
                             .slug
                             .replace(/\d+\//g, "");
