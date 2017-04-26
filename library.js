@@ -159,7 +159,7 @@
 				 */
                 async.waterfall([
                     function (next) {
-                        topics.getTopicData([mockReq.params.topic_id], next);
+                        topics.getTopicData([parseInt(mockReq.params.topic_id)], next);
                     },
                     function (topic, next) {
                         console.log('aaaaaaaaaa:',topic);
