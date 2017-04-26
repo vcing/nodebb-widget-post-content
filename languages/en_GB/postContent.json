@@ -1,0 +1,7 @@
+{
+    "rule": "rules to show post:",
+    "ruleDetail": "rule detail link",
+    "showTitle": "Show Title?",
+    "titleLink": "Render Title As Link To Post?",
+    "userId": "Render to all as user id (Blank to render as requesting user.  Consider security issues)"
+}
