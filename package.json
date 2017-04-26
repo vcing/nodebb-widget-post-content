@@ -1,0 +1,19 @@
+{
+  "name": "nodebb-widget-post-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcing/nodebb-widget-post-content.git"
+  },
+  "author": "Vcing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcing/nodebb-widget-post-content/issues"
+  },
+  "homepage": "https://github.com/vcing/nodebb-widget-post-content#readme"
+}
